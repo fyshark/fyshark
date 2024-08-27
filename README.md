@@ -1,10 +1,10 @@
 <img align="center" alt="Coding" style="object-fit: cover; width: 100%; height: 350px" src= "img/background.png" decoding="async" loading="lazy"/>
 <h1 align="center">Hi 👋, I'm Yu Feng</h1>
-<h3 align="center">A passionate Data and Machine Learning Engineer, <a href='https://yu-feng.me/' target='_blank'>visit my portfolio</a> </h3> 
+<h3 align="center">A passionate Software and Data Engineer, <a href='https://yu-feng.me/' target='_blank'>visit my portfolio</a> </h3> 
 <img align="right" alt="Coding" src= "img/girl-coding.png" decoding="async" loading="lazy" width="300"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fyshark&label=Profile%20views&color=0e75b6&style=flat" alt="fyshark" /> </p>
 
-- 👩‍💻 I am an MSc Computer Science graduate from University College Dublin
+- 👩‍💻 I am an Software Engineer Intern in Tenable
   
 - 🔭 I just finished work on [AutoMate Web Application](https://github.com/fyshark/AutoMateBusyness-NYC) 
 
