@@ -8,7 +8,7 @@
   
 - 🔭 I just finished work on [AutoMate Web Application](https://github.com/fyshark/AutoMateBusyness-NYC) 
 
-- 🌱 I’m proficient in **Python, Java, Docker, SQL, Sklearn** to name a few
+- 🌱 I’m proficient in **Kotlin, Java, Python, Kafka, SQL, Sklearn** to name a few
 
 - 👨‍💻 All of my projects are available at [https://github.com/fyshark](https://github.com/fyshark)
 
